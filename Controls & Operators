@@ -1,0 +1,13 @@
+Control FLow & Conditional Operators ensure the correctness of your codes.
+
+These two elements ensure that coding is easier and reliable/predictable. 
+
+Python’s control flow determines how your code runs, based on conditions, loops, or errors.
+
+Conditional operators compare the reliability of two values. they always return with true or false
+
+Conditional operators respond to - greater than, equals to, less than, not equal to, and their derivatives. 
+
+Control flow determines how code statements are executed based on conditions. 
+
+COntrol flow includes - if, if else, for, while, break, continue, pass
