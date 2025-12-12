@@ -1,3 +1,7 @@
+A list is a collection of variables. 
+
+It can contain integers, floats and repeated variables. It is heterogeneous
+
 A set is a collection of unique items, 
 
 A set goes through a list and picks the unique items without duplicates. A set ensures you have an oversight of everything in your set at a glance. 
